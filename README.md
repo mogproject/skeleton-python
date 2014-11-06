@@ -3,6 +3,9 @@ skeleton-python
 
 Skeleton for Python Projects with Travis-CI + Coveralls.io
 
+[![Build Status](https://travis-ci.org/mogproject/skeleton-python.svg?branch=master)](https://travis-ci.org/mogproject/skeleton-python)
+[![Coverage Status](https://coveralls.io/repos/mogproject/skeleton-python/badge.png?branch=master)](https://coveralls.io/r/mogproject/skeleton-python?branch=master)
+
 ### Directory Structure
 
 ```
@@ -28,7 +31,4 @@ Skeleton for Python Projects with Travis-CI + Coveralls.io
 
 - Sign into https://coveralls.io/
 - Check on your repository
-
-### Add Badges
-
 
