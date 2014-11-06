@@ -21,9 +21,13 @@ Skeleton for Python Projects with Travis-CI + Coveralls.io
 
 ### Setup Travis-CI
 
+- Sign into https://travis-ci.org/
+- Check on your repository
 
 ### Setup Coveralls
 
+- Sign into https://coveralls.io/
+- Check on your repository
 
 ### Add Badges
 
